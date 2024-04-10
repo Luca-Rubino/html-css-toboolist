@@ -29,6 +29,8 @@
     border-radius: 7px 7px 0 0;
 }
 
+/* impostazioni pagina */
+
 header {
     max-width: 1200px;
     margin: 0 auto;
@@ -60,6 +62,8 @@ hr {
     border: none;
 }
 
+/* impostazione button */
+
 button {
     font-size: .75rem;
     font-weight: 700;
@@ -80,6 +84,8 @@ button {
     border: 0;
 }
 
+/* impostazioni lista */
+
 ul li {
     font-weight: 700;
 }
@@ -97,7 +103,7 @@ ol {
     padding-left: 0.5rem;
 }
 
-/* bottoni span */
+/* .botton negli span */
 
 .button {
     font-size: .6rem;
