@@ -6,6 +6,7 @@
 }
 
 .box {
+    background-color: white;
     padding: 1rem 3rem 0.5rem;
     display: block;   
     max-width: 1200px;
@@ -48,12 +49,23 @@ main {
 }
 
 button {
+    font-size: .75rem;
+    font-weight: 700;
+    padding: 0.7rem;
+    border-radius: 5px;
+}
+
+.b-white {
+    background-color: white;
+    color: #c7ccd1;
+    border: .1rem solid #c7ccd1;
+    padding: .6rem;
+}
+
+.b-47adf1 {
     background-color: #47adf1;
     color: white;
-    font-weight: 700;
     border: 0;
-    border-radius: 5px;
-    padding: 0.7rem;
 }
 
 .flex {
