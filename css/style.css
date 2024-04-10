@@ -19,6 +19,10 @@
     margin: 1rem 0 0 1rem;
 }
 
+.style-type-none {
+    list-style-type: none;
+}
+
 /* altre */
 
 .border-radius-top {
