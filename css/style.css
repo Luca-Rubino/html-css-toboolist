@@ -70,7 +70,7 @@ button {
     font-size: 1rem;
     font-weight: 600;
     text-transform: capitalize;
-    padding: .4rem .7rem;
+    padding: 0.8rem;
     border-radius: 5px;
 }
 
@@ -78,7 +78,7 @@ button {
     background-color: white;
     color: #c7ccd1;
     border: 2px solid #c7ccd1;
-    padding: .28rem;
+    padding: .68rem
 }
 
 .b-47adf1 {
