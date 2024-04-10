@@ -52,7 +52,6 @@ body {
 
 main {
     padding: 3rem 10rem 1rem;
-    height: 53.5rem;
     background-color: #f6f8f9;
 }
 
@@ -95,6 +94,24 @@ ol li {
 
 ol {
     padding-left: 0.5rem;
+}
+
+.circle {
+    margin: 0rem 0.2rem 0rem 0rem;
+    font-weight: 700;
+    font-size: .7rem;
+    border: 1px solid;
+    border-radius: 50%;
+}
+
+.circle-red {
+    color: red;
+    border-color: red;
+}
+
+.circle-green {
+    color: green;
+    border-color: green;
 }
 
 .flex {
