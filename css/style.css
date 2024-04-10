@@ -1,0 +1,24 @@
+/* reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Impostazioni base */
+
+.box {
+    background-color: whitesmoke;
+    width: 50rem;
+    height: 50rem;
+    border: 10px solid black;
+    border-radius: 10px;
+}
+
+.list {
+    background-color: yellow;
+    padding: 0rem 0 0 1rem;
+    margin: 1rem 0 0 1rem;
+}
+
+/* altre */
