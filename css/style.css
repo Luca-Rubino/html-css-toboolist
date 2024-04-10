@@ -96,6 +96,21 @@ ol {
     padding-left: 0.5rem;
 }
 
+/* bottoni span */
+
+.button {
+    font-size: .6rem;
+    padding: .4rem .7rem;
+    border-radius: 10px;
+}
+
+.b-cyan {
+    background-color: #45abea;
+    color: white
+}
+
+/* icone X e V */
+
 .circle {
     margin: 0rem 0.2rem 0rem 0rem;
     font-weight: 700;
