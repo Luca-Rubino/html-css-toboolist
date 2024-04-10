@@ -102,11 +102,31 @@ ol {
     font-size: .6rem;
     padding: .4rem .7rem;
     border-radius: 10px;
+    color: white
 }
 
 .b-cyan {
     background-color: #45abea;
-    color: white
+}
+
+.b-violet {
+    background-color: #9c72e4;
+}
+
+.b-green {
+    background-color: #64c0a9;
+}
+
+.b-orange {
+    background-color: #f29e33;
+}
+
+.b-pink {
+    background-color: #d863a1;
+}
+
+.b-gold {
+    background-color: #b0c926;
 }
 
 /* icone X e V */
