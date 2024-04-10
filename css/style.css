@@ -7,7 +7,7 @@
 
 /* Impostazioni base */
 
-.box {
+/* .box {
     display: block;
     background-color: whitesmoke;
     max-width: 1200px;
@@ -20,18 +20,26 @@
     background-color: yellow;
     padding: 0rem 0 0 1rem;
     margin: 1rem 0 0 1rem;
-}
+} */
 
 /* altre */
 
 header {
+    /* background-color: palegoldenrod; */
     max-width: 1200px;
     margin: 0 auto;
+    padding: 0.5rem;
 }
 
 img {
     width: 60px;
     height: 60px;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 3rem;
+    margin-left: 0.5rem;
 }
 
 body {
