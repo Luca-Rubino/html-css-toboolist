@@ -78,7 +78,7 @@ button {
     background-color: white;
     color: #c7ccd1;
     border: 2px solid #c7ccd1;
-    padding: .68rem
+    padding: .68rem;
 }
 
 .b-47adf1 {
@@ -148,11 +148,14 @@ ol {
 /* icone X e V */
 
 .circle {
+    display: inline-block;
+    text-align: center;
     margin: 0rem 0.2rem 0rem 0rem;
     font-weight: 700;
-    font-size: .7rem;
-    border: 1px solid;
+    font-size: 1rem;
+    border: 2px solid;
     border-radius: 50%;
+    width: 1.5rem;
 }
 
 .circle-red {
