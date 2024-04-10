@@ -46,6 +46,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+main {
+    height: 52.5rem;
+    background-color: #f6f8f9;
+}
+
 .flex {
     display: flex;
     align-items: center;
